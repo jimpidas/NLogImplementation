@@ -1,0 +1,6 @@
+﻿2021-05-07 09:49:54.8984|DEBUG|NLogImplementation.NLog|Debug Successfull
+2021-05-07 09:50:39.5562|DEBUG|NLogImplementation.NLog|Debug Successfull
+2021-05-07 09:53:20.5887|DEBUG|NLogImplementation.NLog|Debug Successfull : sum()
+2021-05-07 09:53:20.5887|ERROR|NLogImplementation.NLog|Expecting null values
+2021-05-07 09:53:20.5887|WARN|NLogImplementation.NLog|a or b should not equal to 0
+2021-05-07 09:53:20.5887|DEBUG|NLogImplementation.NLog|Debug Successfull
